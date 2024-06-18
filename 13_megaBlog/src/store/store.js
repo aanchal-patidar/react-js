@@ -8,5 +8,4 @@ import authSlice from "./authSlice";
         }
     })
 
-
 export default store
